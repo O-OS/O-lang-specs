@@ -72,13 +72,6 @@ var *<name> = <value>;
 &<variable>;
 ```
 
-## C code
-```
-ccode {
-    <c code>
-}
-```
-
 ## Imports
 ```
 import "<path>";
